@@ -137,7 +137,8 @@ if __name__ == '__main__':
     client_program()
 ```
 ## OUTPUT:
-![alt text](image.png)
+![image](https://github.com/user-attachments/assets/eba10d46-93c4-43e3-a89f-56b16a6c5822)
+
 
 ## Result:
 
